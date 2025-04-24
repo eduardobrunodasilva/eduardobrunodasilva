@@ -1,9 +1,9 @@
 <h1 align="center">Oi, eu sou Eduardo Bruno</h1>
 <h3 align="center">Eu sou apaixonado pelo mundo do Desenvolvimento e Automação.</h3>
 
-- 🌱Estou aprendendo atualmente **back (C#), front (JavaScript/Node.js), dados (Python) e CRM (Salesforce)**
+- Estou aprendendo atualmente **back (C#), front (JavaScript/Node.js), dados (Python) e CRM (Salesforce)**
 
-- 👯 Eu também estou criando do zero um site para área da saúde [project-fisio](https://eduardobrunodasilva.github.io/project-fisio/)
+- Eu também estou criando do zero um site para área da saúde [project-fisio](https://eduardobrunodasilva.github.io/project-fisio/)
 
 - 💬 Pergunte-me sobre **HTML, CSS, CRM, Power BI, Excel, C, JavaScript (Node.js), AI**
 
