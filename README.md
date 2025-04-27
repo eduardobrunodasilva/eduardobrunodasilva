@@ -5,7 +5,7 @@
 
 - 👯 Eu também estou criando do zero um site para área da saúde [project-fisio](https://eduardobrunodasilva.github.io/project-fisio/)
 
-- 💬 Pergunte-me sobre **HTML, CSS, CRM, Power BI, Excel, C, JavaScript (Node.js), AI**
+- 💬 Pergunte-me sobre **HTML, CSS, JavaScript (Node.js), Python, CRM, Power BI, Excel, C, AI**
 
 - 📫 Você me encontra através do **eduardobruno.dasilvabarbosa@gmail.com**
 
