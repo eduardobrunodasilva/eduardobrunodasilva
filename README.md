@@ -9,7 +9,7 @@
 
 - 📫 Você me encontra através do **eduardobruno.dasilvabarbosa@gmail.com**
 
-- 📄 Possuo experiência em atendimento ao cleinte; Melhoria de performance produtiva e redução do tempo de trabalho (visando maior lucratividade para empresa); Liderança de pequenas equipes (3 a 5 integrantes) em atendimento ao cliente. No presente momento, participando da Capacitação em CRM onde há criação de e-mail marketing dentro da plataforma Salesforce; criação de Data Extensions para filtros e análises; Data Cloud e E-mail Marketing Cloud [https://www.linkedin.com/in/eduardobrunosb/](https://www.linkedin.com/in/eduardobrunosb/)
+- 📄 Possuo experiência em atendimento ao cleinte; Melhoria de performance produtiva e redução do tempo de trabalho (visando maior lucratividade para empresa); Liderança de pequenas equipes (3 a 5 integrantes) em atendimento ao cliente. No presente momento, participando da Capacitação em CRM onde realizo a criação de e-mail marketing dentro da plataforma Salesforce; criação de Data Extensions para filtros e análises; também faço automação pelo Automation Studio e consultas SQL; Data Cloud e E-mail Marketing Cloud [https://www.linkedin.com/in/eduardobrunosb/](https://www.linkedin.com/in/eduardobrunosb/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
