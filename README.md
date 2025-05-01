@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou o Eduardo Bruno</h1>
+<h1 align="center">Prazer, Eduardo Bruno</h1>
 <h3 align="center">Eu sou apaixonado pelo mundo do Desenvolvimento e Automação.</h3>
 
 - 🌱Estou aprendendo atualmente **back (C#), front (JavaScript/Node.js), dados (Python) e CRM (Salesforce)**
