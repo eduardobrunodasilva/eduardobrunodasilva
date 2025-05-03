@@ -1,9 +1,9 @@
 <h1 align="center">Prazer, Eduardo Bruno</h1>
 <h3 align="center">Eu sou apaixonado pelo mundo do Desenvolvimento e Automação.</h3>
 
-- 🌱Estou aprendendo atualmente **back (C#), front (JavaScript/Node.js), dados (Python) e CRM (Salesforce) e SQL**
+- Estou aprendendo atualmente **back (C#), front (JavaScript/Node.js), dados (Python) e CRM (Salesforce) e SQL**
 
-- 👯 Eu também estou criando do zero um site para área da saúde [project-fisio](https://eduardobrunodasilva.github.io/project-fisio/)
+- Eu também estou criando do zero um site para área da saúde [project-fisio](https://eduardobrunodasilva.github.io/project-fisio/)
 
 - 💬 Pergunte-me sobre **HTML, CSS, JavaScript (Node.js), Python, CRM, Power BI, Excel, C, AI**
 
