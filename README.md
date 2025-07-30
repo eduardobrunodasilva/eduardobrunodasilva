@@ -1,15 +1,23 @@
 <h1 align="center">Prazer, Eduardo Bruno</h1>
 <h3 align="center">Eu sou apaixonado pelo mundo do Desenvolvimento e Automação.</h3>
 
-- Estou aprendendo atualmente **back (C#), front (JavaScript/Node.js), dados (Python) e CRM (Salesforce) e SQL**
+- Estou aprendendo atualmente **front (JavaScript/Node.js), dados, automação e backend (Python) e CRM (Salesforce, RD Station, N8N - Automação (backend)) e SQL e Power BI para manipulação e modelagem de dados**
 
 - Eu também estou criando do zero um site para área da saúde [project-fisio](https://eduardobrunodasilva.github.io/project-fisio/)
 
-- 💬 Pergunte-me sobre **HTML, CSS, JavaScript (Node.js), Python, CRM, Power BI, Excel, C, AI**
+- 💬 Pergunte-me sobre **HTML, CSS, JavaScript (Node.js), Python, CRM, SQL, Power BI, Excel, C, AI, N8N, Salesforce, RD Station**
 
 - 📫 Você me encontra através do **eduardobruno.dasilvabarbosa@gmail.com**
 
-- 📄 Possuo experiência em atendimento ao cliente; Melhoria de performance produtiva e redução do tempo de trabalho (visando maior lucratividade para empresa); Liderança de pequenas equipes (3 a 5 integrantes) em atendimento ao cliente. No presente momento, participando da Capacitação em CRM onde realizo a criação de e-mail marketing dentro da plataforma Salesforce; criação de Data Extensions para filtros e análises; também faço automação pelo Automation Studio e consultas SQL; Data Cloud e E-mail Marketing Cloud [https://www.linkedin.com/in/eduardobrunosb/](https://www.linkedin.com/in/eduardobrunosb/)
+- Atuando com tecnologia e soluções que geram valor por meio de automação de sistemas, CRM e Dados. 
+
+💼 Experiência
+- Estágio de Capacitação em CRM Tech e Business pela Enext a VML, com foco no relacionamento com cliente, automações e estratégias.
+- Criei e-mail Marketing, automações e jornada pela Salesforce, além de consultas com SQL query.
+- Desenvolvi landing pages, sites responsivos, análises de KPIs e automações voltadas à melhoria da experiência do cliente.
+- Possuo experiência com HTML5, CSS3, Python, SQL, Power BI, Sheets e Excel.
+- Experiência com RD Conversas, Trello e Notion.
+- [https://www.linkedin.com/in/eduardobrunosb/](https://www.linkedin.com/in/eduardobrunosb/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
