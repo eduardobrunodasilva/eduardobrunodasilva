@@ -23,6 +23,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eduardobrunosb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eduardobrunosb/" height="30" width="40" /></a>
 <a href="https://instagram.com/@eduardo.brunosb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@eduardo.brunosb" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/2/#inbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@eduardo.brunosb" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
